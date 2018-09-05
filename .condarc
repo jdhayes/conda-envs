@@ -1,0 +1,6 @@
+channels:
+  - defaults
+pkgs_dirs:
+  - ~/bigdata/.conda/pkgs
+envs_dirs:
+  - ~/bigdata/.conda/envs
